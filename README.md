@@ -25,7 +25,7 @@ I love tackling complex problems and finding elegant solutions through code. Whe
 
 Feel free to reach out if you want to discuss potential collaborations, share insights, or just chat about technology. You can find me on:
 
-- [LinkedIn]([https://](https://www.linkedin.com/in/raihanmaulana/))
+- [LinkedIn](https://www.linkedin.com/in/raihanmaulana/))
 
 Thank you for visiting my GitHub profile! 🚀
 
