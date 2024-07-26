@@ -16,7 +16,7 @@ Hi there! I'm Raihan Maulana, a passionate Fullstack Developer specializing in b
 Here are a few projects I've been working on recently:
 
 - **[Sistem Informasi Katalog dan Peminjaman Buku SMA Negeri 1 Tunjungan](https://yasawaskitha.site)**:  Library Management Website For Tunjungan High School located in Blora, Central Java.
-- 
+  
 ## What I Love
 
 I love tackling complex problems and finding elegant solutions through code. When I'm not coding, you might find me exploring the latest tech trends, contributing to open-source projects, or learning new skills to keep up with the ever-evolving tech landscape.
@@ -25,7 +25,7 @@ I love tackling complex problems and finding elegant solutions through code. Whe
 
 Feel free to reach out if you want to discuss potential collaborations, share insights, or just chat about technology. You can find me on:
 
-- [LinkedIn](https://www.linkedin.com/in/raihanmaulana/))
+- [LinkedIn](https://www.linkedin.com/in/raihanmaulana/)
 
 Thank you for visiting my GitHub profile! 🚀
 
