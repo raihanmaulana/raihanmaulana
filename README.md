@@ -1,7 +1,7 @@
 # Ola! 👋
 
 ![](https://komarev.com/ghpvc/?username=raihanmaulana)
-
+![Raihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=raihanmaulana&show_icons=true&theme=radical)
 ## About Me
 
 Hi there! I'm Raihan Maulana, a passionate Fullstack Developer specializing in building modern, scalable web applications using **Laravel**. With a strong foundation in both backend and frontend technologies, I enjoy crafting seamless and efficient solutions that drive real-world impact.
